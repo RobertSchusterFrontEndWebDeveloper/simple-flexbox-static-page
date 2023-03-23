@@ -1,0 +1,1 @@
+A static page with flexbox propertys as part of a flexbox exercise.
